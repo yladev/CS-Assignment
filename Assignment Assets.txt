@@ -20,3 +20,14 @@ section no and software yel => firstly send
 Driver Booster Sources => https://www.iobit.com/en/driver-booster.php
 
 Antivirus Software Sources  => https://www.avast.com/en-us/index#pc
+
+RAM
+Hard Drive (HDD)
+Hard Drive Cable
+Graphic Card (GPU)
+CPU
+CPU Fan
+System Fan
+Power Supply (PSU)
+Motherboard
+Monitor Cable
