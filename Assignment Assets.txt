@@ -33,10 +33,5 @@ Motherboard
 Monitor Cable
 
 
-TASK 3
-
-
-
-
-
+Realtek RTL8822CE 802.11ac PCle Adapter
 
